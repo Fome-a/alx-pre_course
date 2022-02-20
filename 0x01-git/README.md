@@ -1,1 +1,2 @@
-My first joint
+Starting to code today,so cool
+
